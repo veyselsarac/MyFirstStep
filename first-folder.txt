@@ -1,1 +1,3 @@
 Hello this is my first gitgub project
+
+SelaminAleykum kilic in the house what happens in git hub stays in git hub :)
